@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/Interface/First.java=UTF-8
+encoding//src/Interface/InfoGraph.java=UTF-8
+encoding//src/Interface/InfoSommet.java=UTF-8
+encoding//src/Interface/Principal.java=UTF-8
+encoding//src/algorithmes/Coloriage.java=UTF-8
+encoding//src/algorithmes/Kruskal.java=UTF-8
+encoding//src/algorithmes/Marquage.java=UTF-8
+encoding//src/algorithmes/Prim.java=UTF-8
+encoding//src/algorithmes/Residuelle.java=UTF-8
+encoding//src/algorithmes/Wareshall.java=UTF-8
+encoding//src/elements/DijkstraModel.java=UTF-8
+encoding//src/elements/Sommet.java=UTF-8
+encoding//src/elements/Sommets.java=UTF-8
